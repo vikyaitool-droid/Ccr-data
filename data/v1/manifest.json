@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "7.3.2",
-  "generatedAt": "2026-04-10T11:44:00.796Z",
+  "generatedAt": "2026-04-11T05:13:12.915Z",
   "sections": [
     {
-      "id": "algorithms",
-      "file": "algorithms.json",
-      "cardCount": 10,
-      "sizeKb": 46,
+      "id": "herb_drug_interactions",
+      "file": "herb_drug_interactions.json",
+      "cardCount": 0,
+      "sizeKb": 122,
       "priority": "lazy",
-      "lastUpdated": "2026-04-10",
-      "etag": "32fe1b896b44"
+      "lastUpdated": "2026-04-11",
+      "etag": "3b8492e2f287"
     }
   ]
 }
