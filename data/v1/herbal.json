@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "herbal",
-  "generatedAt": "2026-04-10T10:50:30.390Z",
+  "generatedAt": "2026-04-12T17:23:55.619Z",
   "cardCount": 11,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -96,7 +96,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -195,7 +195,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -276,7 +276,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -389,7 +389,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -496,7 +496,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -589,7 +589,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -677,7 +677,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -778,7 +778,7 @@
       "category": "adp",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -878,7 +878,7 @@
       "category": "hep",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -950,7 +950,7 @@
       "category": "nrv",
       "section": "herbal",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
