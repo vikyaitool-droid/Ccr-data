@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "nutbio",
-  "generatedAt": "2026-04-10T10:50:27.825Z",
+  "generatedAt": "2026-04-12T17:23:28.340Z",
   "cardCount": 26,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -77,7 +77,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -132,7 +132,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -198,7 +198,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -265,7 +265,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -360,7 +360,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -442,7 +442,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -520,7 +520,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -631,7 +631,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -737,7 +737,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -843,7 +843,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -933,7 +933,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1012,7 +1012,7 @@
       "category": "mth",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1084,7 +1084,7 @@
       "category": "path",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1150,7 +1150,7 @@
       "category": "path",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1205,7 +1205,7 @@
       "category": "path",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1271,7 +1271,7 @@
       "category": "path",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1338,7 +1338,7 @@
       "category": "mins",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1444,7 +1444,7 @@
       "category": "mins",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1534,7 +1534,7 @@
       "category": "mins",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1629,7 +1629,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1711,7 +1711,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -1789,7 +1789,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -1900,7 +1900,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -2006,7 +2006,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -2085,7 +2085,7 @@
       "category": "vits",
       "section": "nutbio",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
