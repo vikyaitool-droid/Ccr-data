@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "chromotherapy",
-  "generatedAt": "2026-04-10T10:48:13.234Z",
+  "generatedAt": "2026-04-12T17:22:02.861Z",
   "cardCount": 4,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "chro",
       "section": "chromotherapy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -95,7 +95,7 @@
       "category": "chro",
       "section": "chromotherapy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -195,7 +195,7 @@
       "category": "chro",
       "section": "chromotherapy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -256,7 +256,7 @@
       "category": "chro",
       "section": "chromotherapy",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
