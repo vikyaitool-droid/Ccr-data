@@ -1,52 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "7.3.2",
-  "generatedAt": "2026-04-11T12:38:31.135Z",
+  "generatedAt": "2026-04-12T17:07:39.722Z",
   "sections": [
     {
-      "id": "agni_doshas",
-      "file": "agni_doshas.json",
-      "cardCount": 0,
-      "sizeKb": 2,
+      "id": "naturotreat",
+      "file": "naturotreat.json",
+      "cardCount": 26,
+      "sizeKb": 23,
       "priority": "lazy",
-      "lastUpdated": "2026-04-11",
-      "etag": "0865fe2960e0"
-    },
-    {
-      "id": "panchakarma",
-      "file": "panchakarma.json",
-      "cardCount": 0,
-      "sizeKb": 4,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-11",
-      "etag": "4e70b916d11b"
-    },
-    {
-      "id": "siddha",
-      "file": "siddha.json",
-      "cardCount": 0,
-      "sizeKb": 5,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-11",
-      "etag": "52284778448a"
-    },
-    {
-      "id": "rasayana",
-      "file": "rasayana.json",
-      "cardCount": 0,
-      "sizeKb": 6,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-11",
-      "etag": "fd0fd48b6be8"
-    },
-    {
-      "id": "ahara",
-      "file": "ahara.json",
-      "cardCount": 0,
-      "sizeKb": 6,
-      "priority": "lazy",
-      "lastUpdated": "2026-04-11",
-      "etag": "21265d67dc98"
+      "lastUpdated": "2026-04-12",
+      "etag": "d328e48d4652"
     }
   ]
 }
