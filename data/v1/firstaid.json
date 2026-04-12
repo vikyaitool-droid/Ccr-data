@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "firstaid",
-  "generatedAt": "2026-04-10T10:48:35.683Z",
+  "generatedAt": "2026-04-12T17:22:51.052Z",
   "cardCount": 4,
   "cards": [
     {
@@ -11,7 +11,7 @@
       "category": "firstaid",
       "section": "firstaid",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -62,7 +62,7 @@
       "category": "firstaid",
       "section": "firstaid",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -134,7 +134,7 @@
       "category": "firstaid",
       "section": "firstaid",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -201,7 +201,7 @@
       "category": "firstaid",
       "section": "firstaid",
       "version": 1,
-      "lastUpdated": "2026-04-10",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
