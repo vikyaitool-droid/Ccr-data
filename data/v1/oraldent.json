@@ -1,6 +1,7 @@
 {
   "schemaVersion": "1.0",
   "section": "oraldent",
+  "generatedAt": "2026-04-12T17:24:05.859Z",
   "cardCount": 4,
   "cards": [
     {
@@ -10,7 +11,7 @@
       "category": "oral",
       "section": "oraldent",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [
@@ -71,7 +72,7 @@
       "category": "oral",
       "section": "oraldent",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -111,7 +112,7 @@
       "category": "oral",
       "section": "oraldent",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
@@ -172,7 +173,7 @@
       "category": "oral",
       "section": "oraldent",
       "version": 1,
-      "lastUpdated": "2026-04-09",
+      "lastUpdated": "2026-04-12",
       "content": {
         "summary": null,
         "alerts": [],
