@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T17:29:18.430Z",
+  "generatedAt": "2026-04-13T17:38:14.489Z",
   "sections": [
     {
-      "id": "lab",
-      "file": "lab.json",
-      "cardCount": 111,
-      "sizeKb": "208.6",
+      "id": "herbal",
+      "file": "herbal.json",
+      "cardCount": 11,
+      "sizeKb": "60.2",
       "priority": "lazy",
       "lastUpdated": "2026-04-13",
-      "etag": "304724effeef"
+      "etag": "e5fdb2f29170"
     }
   ]
 }
