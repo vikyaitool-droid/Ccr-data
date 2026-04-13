@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T17:39:42.588Z",
+  "generatedAt": "2026-04-13T17:40:56.019Z",
   "sections": [
     {
-      "id": "herbal",
-      "file": "herbal.json",
-      "cardCount": 11,
-      "sizeKb": "60.2",
+      "id": "ahara",
+      "file": "ahara.json",
+      "cardCount": 0,
+      "sizeKb": "5.9",
       "priority": "lazy",
       "lastUpdated": "2026-04-13",
-      "etag": "e5fdb2f29170"
+      "etag": "21265d67dc98"
     }
   ]
 }
