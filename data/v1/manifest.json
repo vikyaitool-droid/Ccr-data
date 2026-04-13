@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "appVersion": "9.0",
-  "generatedAt": "2026-04-13T17:47:37.116Z",
+  "generatedAt": "2026-04-13T18:32:32.874Z",
   "sections": [
     {
-      "id": "yogathera",
-      "file": "yogathera.json",
-      "cardCount": 4,
-      "sizeKb": "28.0",
+      "id": "ayurveda_siddha",
+      "file": "ayurveda_siddha.json",
+      "cardCount": 0,
+      "sizeKb": "111.3",
       "priority": "lazy",
       "lastUpdated": "2026-04-13",
-      "etag": "03ff1f45839f"
+      "etag": "2c5cd45fdea0"
     }
   ]
 }
