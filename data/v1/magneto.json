@@ -2,59 +2,52 @@
   "cards": [
     {
       "id": "mag_001",
-      "title": "North Pole (Negative Pole) — Properties",
+      "title": "North Pole (Negative) — Sedating",
       "category": "mag",
       "badge": "Sedating",
-      "_legacyHtml": "<b>Polarity:</b> Negative / North-seeking pole.<br><b>Properties:</b> Sedating, cooling, anti-inflammatory, inhibitory, bacteriostatic, analgesic.<br><b>Indications:</b> Inflammation, infections, pain, hypertension, insomnia, anxiety, tumours (adjunct), fever, acute conditions.<br><b>Mechanism:</b> Decreases cellular activity, reduces oedema, inhibits bacterial growth, slows nerve conduction velocity.<br><b>Application:</b> Place north pole directly over affected area. 20–45 min daily.<br><b>Mnemonic:</b> <i>N</i>orth = <i>N</i>o inflammation."
+      "_legacyHtml": "<b>Properties:</b> Cooling, sedating, anti-inflammatory, anti-infective, analgesic. Inhibits bacterial growth. Reduces pain and inflammation.<br><b>Indications:</b> Acute pain, inflammation, infection, fever, hypertension, insomnia, anxiety, tachycardia, toothache, headache, arthritis (acute), cancer pain (adjunct), wounds.<br><b>Method:</b> Apply North pole face (marked N or with flat surface) directly to the affected area. Use for 15–30 min/session.<br><b>Mechanism:</b> North pole creates alkaline environment, inhibits pathogens, reduces oedema, stimulates parasympathetic system.<br><b>Precaution:</b> Never apply both poles simultaneously to the same area. Do not use over pacemakers, implants, or pregnancy abdomen."
     },
     {
       "id": "mag_002",
-      "title": "South Pole (Positive Pole) — Properties",
+      "title": "South Pole (Positive) — Stimulating",
       "category": "mag",
       "badge": "Stimulating",
-      "_legacyHtml": "<b>Polarity:</b> Positive / South-seeking pole.<br><b>Properties:</b> Stimulating, warming, activating, anabolic, promotes growth and metabolism.<br><b>Indications:</b> Paralysis, muscle weakness, hypothyroidism, chronic fatigue, fracture healing, wound healing (chronic), depression, malnutrition.<br><b>Mechanism:</b> Increases cellular activity, promotes blood supply, stimulates nerve conduction, enhances tissue regeneration.<br><b>Application:</b> Place south pole over affected area. 20–30 min. Caution: Do NOT use in infections, tumours, or fever."
+      "_legacyHtml": "<b>Properties:</b> Warming, stimulating, promotes growth, increases circulation. Creates acidic microenvironment.<br><b>Indications:</b> Paralysis, weakness, hypothyroidism, chronic fatigue, poor circulation, delayed wound healing (after acute phase), degenerative conditions, low BP, cold limbs.<br><b>Method:</b> Apply South pole face to affected area for 15–20 min. Use sparingly — excess stimulation can worsen acute conditions.<br><b>Mechanism:</b> South pole increases metabolic activity, promotes cell proliferation, stimulates sympathetic system, increases acid production in tissue.<br><b>Contraindications:</b> Acute infection, fever, acute inflammation, hypertension, malignancy (avoid direct application)."
     },
     {
       "id": "mag_003",
-      "title": "Static Magnets — Application Protocol",
+      "title": "Static Magnet — Types & Strengths",
       "category": "mag",
-      "badge": "Technique",
-      "_legacyHtml": "<b>Types:</b> Ceramic, neodymium (rare earth), flexible magnetic belts, magnetic insoles, magnetic jewellery.<br><b>Strength:</b> Therapeutic range 300–3000 Gauss (local); up to 10,000 Gauss for deeper tissue.<br><b>Application Rules:</b><ul><li>Acute: North pole first</li><li>Chronic/weakness: South pole</li><li>Bilateral: North on affected side, South on opposite for balance</li></ul><b>Duration:</b> 20–60 min/session, 1–2× daily. Course: 3–4 weeks minimum.<br><b>Bipolar Magnets:</b> Use when unclear — provides balanced effect."
+      "badge": "Equipment",
+      "_legacyHtml": "<b>Ceramic (ferrite) magnets:</b> 500–3,000 Gauss. Most commonly used in naturopathy clinics. Cost-effective. For local application.<br><b>Neodymium (rare earth) magnets:</b> 3,000–12,000 Gauss. Stronger, smaller. Used for deep tissue and acupoints.<br><b>Flexible magnetic strips:</b> 100–500 Gauss. For wrapping limbs, back belts. Good for chronic pain management.<br><b>Magnetic insoles:</b> 800–1,000 Gauss. For plantar fasciitis, fatigue, diabetic neuropathy (feet).<br><b>Magnetic bracelets/wristbands:</b> 300–800 Gauss. For arthritis, carpal tunnel (limited evidence).<br><b>Clinical rule:</b> 1 Gauss = 0.1 mT. Higher Gauss = shorter session needed. Document polarity used for each application."
     },
     {
       "id": "mag_004",
-      "title": "PEMF Therapy (Pulsed Electromagnetic Field)",
+      "title": "Magnetic Water — Preparation & Dosage",
       "category": "mag",
-      "badge": "Advanced",
-      "_legacyHtml": "<b>Mechanism:</b> Low-frequency pulsed magnetic fields (1–100 Hz) stimulate cell membrane ion channels, enhance ATP production, modulate inflammation, promote bone and tissue repair.<br><b>Evidence:</b> Grade A for non-union fractures; Grade B for OA pain, osteoporosis.<br><b>Indications:</b> Non-union fractures, osteoporosis, OA, LBP, depression (rTMS), wound healing, peripheral neuropathy.<br><b>Parameters:</b> 1–50 Hz, 1–100 Gauss. Session: 20–30 min. Course: 15–20 sessions.<br><b>Devices:</b> PEMF mat, localised applicators, helmet (for brain targets)."
+      "badge": "Preparation",
+      "_legacyHtml": "<b>Preparation:</b> Place a 1,000–3,000 Gauss magnet (North pole facing water) under or beside a glass/copper vessel of water for 12–24 hours. Water becomes magnetised — altered hydrogen bonding, reduced surface tension, changed pH.<br><b>North pole water (alkaline):</b> Anti-inflammatory, anti-infective. Dose: 100–150 ml, 2–3 times/day before meals. For: arthritis, infection, inflammation, constipation.<br><b>South pole water (acidic):</b> Stimulating, digestive. Dose: 50–100 ml before meals. For: weak digestion, fatigue, low BP.<br><b>Storage:</b> Use within 24 hours. Store in glass container away from direct sunlight and EMF sources.<br><b>Note:</b> Evidence is preliminary; use as adjunct, not primary therapy."
     },
     {
       "id": "mag_005",
-      "title": "Magnetic Water",
+      "title": "PEMF — Pulsed Electromagnetic Field Therapy",
       "category": "mag",
-      "badge": "Internal Use",
-      "_legacyHtml": "<b>Preparation:</b> Place two 1000–3000 Gauss magnets on opposite sides of a glass of water (north pole touching glass). Leave for 12–24 hours.<br><b>North pole water:</b> Anti-inflammatory, astringent. Use for UTI, kidney stones, hypertension, infections. Dose: 60–90 mL 3× daily.<br><b>South pole water:</b> Stimulant, tonic. Use for weakness, paralysis, hypothyroidism. Dose: 60 mL 2× daily.<br><b>Storage:</b> Use within 24–48 hours. Keep away from other magnets after preparation."
+      "badge": "Modern",
+      "_legacyHtml": "<b>Principle:</b> Time-varying magnetic fields induce weak electric currents in tissue, stimulating cellular repair.<br><b>Frequencies used:</b> 1–100 Hz (ELF-PEMF). Common protocols: 10 Hz (bone healing), 50–100 Hz (pain, muscle).<br><b>Intensities:</b> 1–100 mT (clinical devices) to 0.1–1 mT (home devices).<br><b>Evidence-based indications:</b> Non-union fractures (FDA-approved), osteoarthritis (Level 2A), chronic low back pain, depression (rTMS variant, Level 1A for TRD), fibromyalgia.<br><b>Session:</b> 20–60 min, 1–2 times/day. Course: 4–6 weeks minimum.<br><b>Contraindications:</b> Pacemaker, cochlear implants, pregnancy, active bleeding, seizure disorder, metallic implants at treatment site."
     },
     {
       "id": "mag_006",
-      "title": "Indications by System — Quick Reference",
+      "title": "Magneto Therapy — Indications by System",
       "category": "mag",
       "badge": "Reference",
-      "_legacyHtml": "<table><tr><th>System</th><th>Condition</th><th>Pole</th></tr><tr><td>CVS</td><td>Hypertension</td><td>North</td></tr><tr><td>CNS</td><td>Insomnia, anxiety</td><td>North</td></tr><tr><td>CNS</td><td>Paralysis</td><td>South</td></tr><tr><td>MSK</td><td>Arthritis, pain</td><td>North</td></tr><tr><td>MSK</td><td>Fracture healing</td><td>South</td></tr><tr><td>GIT</td><td>Constipation</td><td>South</td></tr><tr><td>Resp</td><td>Asthma (chronic)</td><td>North</td></tr><tr><td>Endo</td><td>Hypothyroidism</td><td>South</td></tr><tr><td>Skin</td><td>Infections</td><td>North</td></tr></table>"
+      "_legacyHtml": "<b>Musculoskeletal:</b> Rheumatoid arthritis (N pole), osteoarthritis (N pole acute, S pole chronic), fracture healing (S pole), tendinitis (N pole), LBP (N pole local).<br><b>Neurological:</b> Sciatica (N pole), peripheral neuropathy (N pole), migraine (N pole temples), insomnia (N pole head/neck).<br><b>Cardiovascular:</b> Hypertension (N pole cardiac region), varicose veins (N pole locally).<br><b>Endocrine:</b> Hypothyroidism (S pole thyroid region), diabetes (N pole pancreatic region).<br><b>Gastrointestinal:</b> Constipation (S pole abdominal), IBS (N pole abdominal), acidity (N pole epigastric).<br><b>Skin:</b> Wounds (N pole), eczema (N pole), fungal infections (N pole).<br><b>ENT:</b> Sinusitis (N pole), toothache (N pole), tonsillitis (N pole throat)."
     },
     {
       "id": "mag_007",
-      "title": "Contraindications — Magnet Therapy",
+      "title": "Magneto Therapy — Safety & Contraindications",
       "category": "mag",
       "badge": "Safety",
-      "_legacyHtml": "<b>Absolute Contraindications:</b><ul><li>Cardiac pacemaker / implanted electronic devices</li><li>Pregnancy (avoid over abdomen/lumbar)</li><li>Bleeding disorders / anticoagulant therapy</li><li>Active cancer (do not use south pole over tumour)</li><li>Metallic implants (some types — consult manufacturer)</li></ul><b>Relative Contraindications:</b><ul><li>Acute infections (south pole)</li><li>Children under 5 years (reduce strength/duration)</li><li>Immediately post-surgery (first 48 hours)</li></ul><b>Note:</b> Remove watches, credit cards, and electronics before treatment."
-    },
-    {
-      "id": "mag_008",
-      "title": "Safety Guidelines & Application Tips",
-      "category": "mag",
-      "badge": "Protocol",
-      "_legacyHtml": "<b>Identification of Poles:</b> Use a compass — north pole of magnet repels compass north needle. Label magnets clearly.<br><b>Storage:</b> Store magnets in pairs (north-to-south) in wooden or plastic box. Keep away from electronics.<br><b>Handling:</b> Neodymium magnets >500 Gauss can cause pinching injuries — handle carefully.<br><b>Dose Principle:</b> Start low (300–500 G, 20 min) and titrate up based on response. Too much south pole can aggravate if infection is present.<br><b>Documentation:</b> Record pole used, Gauss strength, area, duration, and patient response each session."
+      "_legacyHtml": "<b>Absolute contraindications:</b><br>• Cardiac pacemaker or implanted defibrillator<br>• Cochlear implants or metallic middle ear implants<br>• Pregnancy (avoid abdomen/pelvis)<br>• Active haemorrhage or bleeding disorders<br>• Metallic implants at or near treatment site<br><br><b>Relative contraindications:</b><br>• Epilepsy (use with caution)<br>• Hyperthyroidism (avoid thyroid area)<br>• Malignancy (direct application over tumour site)<br>• Skin wounds or infections (South pole only — prefer North pole)<br><br><b>General safety rules:</b><br>• Store magnets away from credit cards, watches, electronic devices<br>• Do not apply to eyes directly<br>• Keep session to 30 min maximum for static magnets<br>• Remove watches and metal jewellery before application<br>• Pregnant healthcare workers should avoid handling strong magnets"
     }
   ]
 }
