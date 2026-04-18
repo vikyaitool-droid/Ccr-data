@@ -1,28 +1,74 @@
 {
   "cards": [
     {
-      "title": "Chromotherapy — Principles & Scientific Basis",
-      "badge": "Foundation",
+      "id": "chro_001",
+      "title": "Red Light Therapy",
       "category": "chro",
-      "_legacyHtml": "<div class=\"alert a-grn\"><div class=\"a-label\">Definition</div>Chromotherapy (colour therapy) uses specific wavelengths of visible light (380–700nm) to influence biological processes via photoreceptors, photobiomodulation, and neuroendocrine pathways.</div>\n    <table class=\"tbl\"><thead><tr><th>Colour</th><th>Wavelength</th><th>Primary Effects</th><th>Key Indications</th></tr></thead><tbody>\n      <tr><td>🔴 Red</td><td>620–700nm</td><td>Stimulant, vasodilatory, increases circulation and metabolism</td><td>Anaemia, fatigue, paralysis, arthritis, depression</td></tr>\n      <tr><td>🟠 Orange</td><td>590–620nm</td><td>Antispasmodic, appetite stimulant, lung tonic</td><td>Bronchitis, asthma, hypothyroidism, constipation</td></tr>\n      <tr><td>🟡 Yellow</td><td>570–590nm</td><td>Nerve stimulant, digestive tonic, lymphatic activator</td><td>Diabetes, constipation, liver disorders, skin conditions</td></tr>\n      <tr><td>🟢 Green</td><td>495–570nm</td><td>Balancing, antiseptic, pituitary stimulant</td><td>Hypertension, ulcers, headache, nervous disorders</td></tr>\n      <tr><td>🔵 Blue</td><td>450–495nm</td><td>Sedative, anti-inflammatory, antipyretic, antiseptic</td><td>Fever, inflammation, insomnia, hyperthyroidism, pain</td></tr>\n      <tr><td>🟣 Indigo</td><td>425–450nm</td><td>Pain relief, haemostatic, muscle relaxant</td><td>Eye disorders, ear problems, bleeding, mental disorders</td></tr>\n      <tr><td>🔮 Violet</td><td>380–425nm</td><td>Lymphatic stimulant, anti-tumour, spiritual</td><td>Neurological conditions, scalp disorders, epilepsy</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Pearl</div><div class=\"pt\">Blue light (460nm) is the most evidence-based — used clinically for neonatal jaundice (phototherapy), SAD (seasonal affective disorder), and acne vulgaris (kills P. acnes). Red light (630–850nm) photobiomodulation has RCT evidence for wound healing, muscle recovery, and joint pain.</div></div>"
+      "badge": "Stimulating",
+      "_legacyHtml": "<b>Wavelength:</b> 620–750 nm.<br><b>Action:</b> Stimulates sympathetic nervous system, raises body temperature, increases RBC production, boosts circulation.<br><b>Indications:</b> Anaemia, paralysis, depression, hypothyroidism, chronic fatigue, poor circulation, respiratory disorders.<br><b>Duration:</b> 15–30 min. Maintain 60–90 cm distance.<br><b>Contraindications:</b> Fever, acute inflammation, hypertension, epilepsy, hyperthyroidism."
     },
     {
-      "title": "Chromotherapy — Application Methods & Duration",
-      "badge": "Clinical",
+      "id": "chro_002",
+      "title": "Orange Light Therapy",
       "category": "chro",
-      "_legacyHtml": "<div class=\"steps\">\n      <div class=\"step\"><div class=\"sn\" style=\"background:#be185d\">1</div><div class=\"st\"><span class=\"sh\">Colour Lamps</span> — Incandescent bulb with colour filter/gel. Patient exposed at 60–90cm distance. Duration: 20–30 min per session. Most common method in naturopathy clinics.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#be185d\">2</div><div class=\"st\"><span class=\"sh\">Solarised Water</span> — Water charged in coloured glass bottle in sunlight for 4–6 hours. Prescribed as drinks (50–100ml TDS) or external application. Used for systemic effects.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#be185d\">3</div><div class=\"st\"><span class=\"sh\">Colour Breathing</span> — Visualisation of breathing in specific colours during pranayama. Combined with trataka for mind-body integration.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#be185d\">4</div><div class=\"st\"><span class=\"sh\">Colour Silk/Cloth</span> — Coloured cloth placed on affected body part. Allows gentle colour penetration. Used for local conditions.</div></div>\n      <div class=\"step\"><div class=\"sn\" style=\"background:#be185d\">5</div><div class=\"st\"><span class=\"sh\">LED Therapy</span> — Modern evidence-based photobiomodulation. Red (630nm) for tissue healing. Blue (415nm) for acne. Near-infrared (850nm) for deep tissue.</div></div>\n    </div>\n    <table class=\"tbl\"><thead><tr><th>Condition</th><th>Colour</th><th>Method</th><th>Duration</th><th>Frequency</th></tr></thead><tbody>\n      <tr><td>Insomnia</td><td>Blue</td><td>Lamp</td><td>30 min</td><td>Daily at night</td></tr>\n      <tr><td>Depression/Fatigue</td><td>Yellow/Orange</td><td>Lamp</td><td>20 min</td><td>Morning daily</td></tr>\n      <tr><td>Hypertension</td><td>Blue/Green</td><td>Lamp + water</td><td>25 min</td><td>Daily</td></tr>\n      <tr><td>Arthritis/Pain</td><td>Blue (acute) Red (chronic)</td><td>Lamp local</td><td>20 min</td><td>OD</td></tr>\n      <tr><td>Skin conditions</td><td>Violet/Blue</td><td>Lamp local</td><td>15 min</td><td>BD</td></tr>\n      <tr><td>Anaemia</td><td>Red + Orange water</td><td>Lamp + water</td><td>30 min</td><td>Daily</td></tr>\n    </tbody></table>"
+      "badge": "Stimulating",
+      "_legacyHtml": "<b>Wavelength:</b> 590–620 nm.<br><b>Action:</b> Stimulates lungs, pancreas and spleen; mild sympathetic activation; uplifts mood.<br><b>Indications:</b> Asthma, bronchitis, kidney stones, constipation, hypothyroidism, menstrual irregularities, low energy states, mild depression.<br><b>Duration:</b> 15–20 min.<br><b>Note:</b> Gentler than red — suitable for patients who cannot tolerate full red light.<br><b>Contraindications:</b> Fever, anxiety, hypertension."
     },
     {
+      "id": "chro_003",
+      "title": "Yellow Light Therapy",
+      "category": "chro",
+      "badge": "Tonic",
+      "_legacyHtml": "<b>Wavelength:</b> 570–590 nm.<br><b>Action:</b> Stimulates motor neurons; tones lymphatic and digestive systems; mild laxative effect.<br><b>Indications:</b> Constipation, indigestion, liver disorders, skin diseases (eczema, psoriasis), diabetes, nerve tonic, mild anxiety.<br><b>Duration:</b> 20–30 min.<br><b>Contraindications:</b> Acute fever, diarrhoea, inflammatory bowel conditions, hyperthyroidism."
+    },
+    {
+      "id": "chro_004",
+      "title": "Green Light Therapy",
+      "category": "chro",
+      "badge": "Balancing",
+      "_legacyHtml": "<b>Wavelength:</b> 495–570 nm.<br><b>Action:</b> Balances autonomic nervous system; pituitary stimulant; antiseptic, bacteriostatic properties.<br><b>Indications:</b> Hypertension, headache, neuralgias, ulcers, cancer supportive, heart conditions, eye strain, general debility.<br><b>Duration:</b> 20–30 min.<br><b>Special Use:</b> Green is the colour of balance — used when diagnosis is unclear or for general toning.<br><b>Contraindications:</b> Hypotension."
+    },
+    {
+      "id": "chro_005",
+      "title": "Blue Light Therapy",
+      "category": "chro",
+      "badge": "Sedating",
+      "_legacyHtml": "<b>Wavelength:</b> 450–495 nm.<br><b>Action:</b> Parasympathomimetic; sedates and cools; anti-inflammatory; reduces fever; inhibits bacterial growth.<br><b>Indications:</b> Fever, inflammation, hypertension, insomnia, anxiety, hyperthyroidism, burns (minor), jaundice (neonatal), acne vulgaris.<br><b>Duration:</b> 20–30 min. Can be used locally or systemically.<br><b>Contraindications:</b> Depression, hypothyroidism, paralysis, cold conditions, anaemia."
+    },
+    {
+      "id": "chro_006",
+      "title": "Indigo & Violet Light Therapy",
+      "category": "chro",
+      "badge": "Sedating",
+      "_legacyHtml": "<b>Indigo (420–450 nm):</b> Parathyroid depressant; astringent; affects sinuses and eyes. Indications: cataract, sinusitis, nosebleeds, tonsillitis, deafness.<br><b>Violet (380–420 nm):</b> Affects spleen and CNS; lymphatic stimulant. Indications: epilepsy, neuroses, scalp disorders, leucoderma, tumours (adjunct).<br><b>Duration:</b> 10–15 min (both are potent — use shorter sessions).<br><b>Contraindications:</b> Depression, hypothyroidism."
+    },
+    {
+      "id": "chro_007",
+      "title": "Solarised Water",
+      "category": "chro",
+      "badge": "Internal Use",
+      "_legacyHtml": "<b>Preparation:</b> Fill coloured glass bottle (or wrap white glass bottle in coloured cellophane) with water. Expose to direct sunlight for 4–8 hours. Store away from light.<br><b>Dosage:</b> 30–60 mL, 3× daily, 30 min before meals.<br><b>Colour Uses:</b><ul><li><b>Blue water:</b> Fever, inflammation, insomnia</li><li><b>Green water:</b> Hypertension, ulcers</li><li><b>Yellow water:</b> Constipation, liver disorders</li><li><b>Red water:</b> Anaemia, weakness</li></ul><b>Shelf life:</b> Use within 24 hours. Do not refrigerate."
+    },
+    {
+      "id": "chro_008",
+      "title": "LED Chromotherapy",
+      "category": "chro",
+      "badge": "Modern",
+      "_legacyHtml": "<b>Devices:</b> LED panels, fibre-optic beds, colour therapy lamps, handheld LED pens.<br><b>Advantages over glass filters:</b> Precise wavelength, consistent output, no UV, no heat, safe for close proximity.<br><b>Common Protocols:</b><ul><li><b>Red LED (660 nm):</b> Wound healing, hair growth, arthritis</li><li><b>Near-infrared (850 nm):</b> Deep tissue, musculoskeletal pain</li><li><b>Blue LED (415 nm):</b> Acne, neonatal jaundice</li></ul><b>Duration:</b> 10–20 min per session. Course: 10–15 sessions."
+    },
+    {
+      "id": "chro_009",
+      "title": "Clinical Indications — Quick Reference",
+      "category": "chro",
+      "badge": "Reference",
+      "_legacyHtml": "<table><tr><th>Condition</th><th>Colour</th></tr><tr><td>Anaemia</td><td>Red</td></tr><tr><td>Hypertension</td><td>Blue/Green</td></tr><tr><td>Insomnia</td><td>Blue</td></tr><tr><td>Depression</td><td>Orange/Yellow</td></tr><tr><td>Hypothyroidism</td><td>Red/Orange</td></tr><tr><td>Hyperthyroidism</td><td>Blue</td></tr><tr><td>Liver disorders</td><td>Yellow/Green</td></tr><tr><td>Asthma</td><td>Orange/Blue</td></tr><tr><td>Constipation</td><td>Yellow/Orange</td></tr><tr><td>Skin diseases</td><td>Yellow/Violet</td></tr></table>"
+    },
+    {
+      "id": "chro_010",
       "title": "Chromotherapy — Contraindications & Safety",
+      "category": "chro",
       "badge": "Safety",
-      "category": "chro",
-      "_legacyHtml": "<div class=\"alert a-red\"><div class=\"a-label\">Absolute Contraindications</div>Never apply red/infrared light to: active cancer sites, acute inflammation/infection, areas of active bleeding, over eyes without protection, photosensitive skin conditions (SLE, porphyria), patients on photosensitising drugs (tetracyclines, NSAIDs, diuretics).</div>\n    <table class=\"tbl\"><thead><tr><th>Colour</th><th>Avoid In</th><th>Reason</th></tr></thead><tbody>\n      <tr><td>Red/Orange</td><td>Hypertension, fever, inflammation, anxiety, epilepsy</td><td>Further stimulation worsens condition</td></tr>\n      <tr><td>Blue</td><td>Depression, hypothyroidism, cold/cyanosis</td><td>Further sedation contraproductive</td></tr>\n      <tr><td>Yellow</td><td>Acute fever, diarrhoea, nausea</td><td>Stimulates already overactive GI system</td></tr>\n      <tr><td>Violet</td><td>Psychosis, mania</td><td>May exacerbate symptoms</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Safety Pearl</div><div class=\"pt\">Always protect eyes with appropriate eyewear during any colour lamp therapy. Start with 10 min sessions and observe patient response before extending to 30 min. Document colour used, duration, and patient response at each session. In photosensitive patients, start with cool colours (blue/green) at lower intensity.</div></div>"
-    },
-    {
-      "title": "Chromotherapy — Disease Protocols & LED Evidence",
-      "badge": "Clinical Guide",
-      "category": "chro",
-      "_legacyHtml": "<table class=\"tbl\"><thead><tr><th>Condition</th><th>Colour</th><th>Method</th><th>Duration</th><th>Evidence</th></tr></thead><tbody>\n      <tr><td>Seasonal Affective Disorder</td><td>Full-spectrum white / 10,000 lux</td><td>SAD lamp, 30cm distance</td><td>30 min each morning</td><td>Cochrane: equivalent to antidepressants</td></tr>\n      <tr><td>Depression</td><td>Yellow + Orange lamp</td><td>Morning lamp session</td><td>30 min daily</td><td>Good — stimulates serotonin</td></tr>\n      <tr><td>Insomnia</td><td>Blue lamp + block blue at night</td><td>Evening blue lamp + blackout</td><td>20 min at 8pm</td><td>Good — melatonin pathway</td></tr>\n      <tr><td>Acne vulgaris</td><td>Blue 415nm + Red 630nm LED</td><td>LED device over face</td><td>15 min BD</td><td>Strong RCT — kills P.acnes + reduces inflammation</td></tr>\n      <tr><td>Wound healing</td><td>Red 630–660nm + NIR 850nm</td><td>LED over wound</td><td>10 min OD</td><td>Strong — photobiomodulation</td></tr>\n      <tr><td>Chronic arthritis pain</td><td>Red / Infrared</td><td>IR lamp local</td><td>20–30 min OD</td><td>Good RCT evidence</td></tr>\n      <tr><td>Acute inflammation</td><td>Blue lamp local</td><td>Blue lamp local</td><td>15–20 min BD</td><td>Moderate — anti-inflammatory</td></tr>\n      <tr><td>Hypertension</td><td>Blue + Green</td><td>Lamp + solarised water</td><td>25 min + 100ml TDS</td><td>Moderate — ANS modulation</td></tr>\n    </tbody></table>\n    <div class=\"pearl\"><div class=\"pl\">🟡 Photobiomodulation (PBM) — The Evidence Base</div><div class=\"pt\">PBM (red and near-infrared light 630–1000nm) is the most evidence-based form of chromotherapy. Mechanism: cytochrome c oxidase (complex IV in mitochondrial electron transport chain) absorbs red/NIR photons → increased ATP production, reactive oxygen species signalling, nitric oxide release. Clinical applications with strong RCT evidence: wound healing, musculoskeletal pain, post-surgical tissue repair, hair regrowth (LLLT), neck pain. Dose matters: too little = no effect, too much = inhibitory (biphasic dose response).</div></div>"
+      "_legacyHtml": "<b>General Contraindications:</b><ul><li>Photosensitive conditions (lupus, porphyria, XP)</li><li>Photosensitising medications (tetracyclines, NSAIDs, diuretics)</li><li>Active skin cancer at treatment site</li><li>Directly over eyes (unless eye-specific protocol with protection)</li><li>Pregnancy (avoid red/infrared over abdomen)</li></ul><b>Safety Rules:</b> Always use UV-filtered lamps. Avoid staring into light source. Skin should be clean and dry. Check for hypersensitivity first session. Document colour, distance, duration, and response."
     }
   ]
 }
