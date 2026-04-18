@@ -2,73 +2,73 @@
   "cards": [
     {
       "id": "chro_001",
-      "title": "Red Light Therapy",
+      "title": "Red Light — Stimulating Colour",
       "category": "chro",
       "badge": "Stimulating",
-      "_legacyHtml": "<b>Wavelength:</b> 620–750 nm.<br><b>Action:</b> Stimulates sympathetic nervous system, raises body temperature, increases RBC production, boosts circulation.<br><b>Indications:</b> Anaemia, paralysis, depression, hypothyroidism, chronic fatigue, poor circulation, respiratory disorders.<br><b>Duration:</b> 15–30 min. Maintain 60–90 cm distance.<br><b>Contraindications:</b> Fever, acute inflammation, hypertension, epilepsy, hyperthyroidism."
+      "_legacyHtml": "<b>Wavelength:</b> 620–750 nm. <b>Physiological effect:</b> Stimulates sympathetic nervous system, raises body temperature, increases RBC production, boosts circulation.<br><b>Indications:</b> Anaemia, paralysis, hypothyroidism, chronic fatigue, depression, impotence, low BP, poor circulation, cold extremities.<br><b>Duration:</b> 15–30 min/session. <b>Frequency:</b> Daily or alternate days.<br><b>Method:</b> Red filtered light or red glass bottle solarised water (500 ml, 4–6 hrs direct sunlight).<br><b>Contraindications:</b> Fever, acute inflammation, hypertension, epilepsy, bleeding disorders."
     },
     {
       "id": "chro_002",
-      "title": "Orange Light Therapy",
+      "title": "Orange Light — Warming & Stimulating",
       "category": "chro",
       "badge": "Stimulating",
-      "_legacyHtml": "<b>Wavelength:</b> 590–620 nm.<br><b>Action:</b> Stimulates lungs, pancreas and spleen; mild sympathetic activation; uplifts mood.<br><b>Indications:</b> Asthma, bronchitis, kidney stones, constipation, hypothyroidism, menstrual irregularities, low energy states, mild depression.<br><b>Duration:</b> 15–20 min.<br><b>Note:</b> Gentler than red — suitable for patients who cannot tolerate full red light.<br><b>Contraindications:</b> Fever, anxiety, hypertension."
+      "_legacyHtml": "<b>Wavelength:</b> 590–620 nm. <b>Physiological effect:</b> Stimulates respiratory system, anti-spasmodic, increases milk production, stimulates digestive enzymes.<br><b>Indications:</b> Asthma, bronchitis, amenorrhoea, menstrual cramps, lactation insufficiency, kidney stones, hypothyroidism, constipation, mental fatigue.<br><b>Duration:</b> 15–20 min. <b>Frequency:</b> Daily.<br><b>Method:</b> Orange filtered glass/cellophane or orange bottle solarised water.<br><b>Contraindications:</b> Anxiety, nausea, fever, hyperthyroidism."
     },
     {
       "id": "chro_003",
-      "title": "Yellow Light Therapy",
+      "title": "Yellow Light — Nerve Tonic",
       "category": "chro",
-      "badge": "Tonic",
-      "_legacyHtml": "<b>Wavelength:</b> 570–590 nm.<br><b>Action:</b> Stimulates motor neurons; tones lymphatic and digestive systems; mild laxative effect.<br><b>Indications:</b> Constipation, indigestion, liver disorders, skin diseases (eczema, psoriasis), diabetes, nerve tonic, mild anxiety.<br><b>Duration:</b> 20–30 min.<br><b>Contraindications:</b> Acute fever, diarrhoea, inflammatory bowel conditions, hyperthyroidism."
+      "badge": "Nerve Tonic",
+      "_legacyHtml": "<b>Wavelength:</b> 570–590 nm. <b>Physiological effect:</b> Stimulates motor nerves, activates lymphatic system, aids liver and GI function, improves concentration.<br><b>Indications:</b> Constipation, flatulence, liver disorders, diabetes, skin diseases (eczema, psoriasis), indigestion, mental dullness, arthritis.<br><b>Duration:</b> 20–30 min. <b>Frequency:</b> Daily.<br><b>Method:</b> Yellow filtered light or yellow solarised water (especially for GI use).<br><b>Contraindications:</b> Acute fever, diarrhoea, inflammatory bowel disease, anxiety disorders."
     },
     {
       "id": "chro_004",
-      "title": "Green Light Therapy",
+      "title": "Green Light — Balancing & Antiseptic",
       "category": "chro",
       "badge": "Balancing",
-      "_legacyHtml": "<b>Wavelength:</b> 495–570 nm.<br><b>Action:</b> Balances autonomic nervous system; pituitary stimulant; antiseptic, bacteriostatic properties.<br><b>Indications:</b> Hypertension, headache, neuralgias, ulcers, cancer supportive, heart conditions, eye strain, general debility.<br><b>Duration:</b> 20–30 min.<br><b>Special Use:</b> Green is the colour of balance — used when diagnosis is unclear or for general toning.<br><b>Contraindications:</b> Hypotension."
+      "_legacyHtml": "<b>Wavelength:</b> 495–570 nm. <b>Physiological effect:</b> Balances autonomic nervous system, antiseptic, anti-infective, calming, rebuilds muscles and cells.<br><b>Indications:</b> Hypertension, headache, ulcers, heart conditions, neuralgia, erysipelas, influenza, syphilis, cancer (adjunct), eye strain.<br><b>Duration:</b> 20–30 min. <b>Frequency:</b> Daily or alternate days.<br><b>Method:</b> Green filtered light; green solarised water for ulcers and infections.<br><b>Contraindications:</b> Depression, fatigue states (use cautiously — too much green can be sedating)."
     },
     {
       "id": "chro_005",
-      "title": "Blue Light Therapy",
+      "title": "Blue Light — Cooling & Sedating",
       "category": "chro",
       "badge": "Sedating",
-      "_legacyHtml": "<b>Wavelength:</b> 450–495 nm.<br><b>Action:</b> Parasympathomimetic; sedates and cools; anti-inflammatory; reduces fever; inhibits bacterial growth.<br><b>Indications:</b> Fever, inflammation, hypertension, insomnia, anxiety, hyperthyroidism, burns (minor), jaundice (neonatal), acne vulgaris.<br><b>Duration:</b> 20–30 min. Can be used locally or systemically.<br><b>Contraindications:</b> Depression, hypothyroidism, paralysis, cold conditions, anaemia."
+      "_legacyHtml": "<b>Wavelength:</b> 450–495 nm. <b>Physiological effect:</b> Cools, sedates, anti-inflammatory, reduces fever, lowers BP, stimulates parasympathetic system, promotes melatonin (limited).<br><b>Indications:</b> Fever, hypertension, inflammatory conditions, jaundice (neonatal), insomnia, headache, burns, itching, mania, tachycardia, sore throat.<br><b>Duration:</b> 15–20 min. <b>Frequency:</b> Daily.<br><b>Method:</b> Blue filtered light on affected area; blue solarised water for throat/GI conditions.<br><b>Contraindications:</b> Depression, hypothyroidism, cold-sensitive patients, paralysis."
     },
     {
       "id": "chro_006",
-      "title": "Indigo & Violet Light Therapy",
+      "title": "Indigo Light — Parathyroid & Pain",
       "category": "chro",
-      "badge": "Sedating",
-      "_legacyHtml": "<b>Indigo (420–450 nm):</b> Parathyroid depressant; astringent; affects sinuses and eyes. Indications: cataract, sinusitis, nosebleeds, tonsillitis, deafness.<br><b>Violet (380–420 nm):</b> Affects spleen and CNS; lymphatic stimulant. Indications: epilepsy, neuroses, scalp disorders, leucoderma, tumours (adjunct).<br><b>Duration:</b> 10–15 min (both are potent — use shorter sessions).<br><b>Contraindications:</b> Depression, hypothyroidism."
+      "badge": "Analgesic",
+      "_legacyHtml": "<b>Wavelength:</b> 420–450 nm. <b>Physiological effect:</b> Parathyroid depressant, thyroid stimulant, blood purifier, analgesic, strong sedative effect on pain centres.<br><b>Indications:</b> Hyperthyroidism, cataracts (periorbital use), deafness, skin diseases, nosebleeds, pneumonia, convulsions, acute pain, sciatica.<br><b>Duration:</b> 10–15 min. <b>Frequency:</b> Alternate days.<br><b>Method:</b> Indigo filtered glass; compress soaked in indigo solarised water for local pain.<br><b>Contraindications:</b> Hypothyroidism, anaemia, depression."
     },
     {
       "id": "chro_007",
-      "title": "Solarised Water",
+      "title": "Violet Light — Lymphatic & Sedative",
       "category": "chro",
-      "badge": "Internal Use",
-      "_legacyHtml": "<b>Preparation:</b> Fill coloured glass bottle (or wrap white glass bottle in coloured cellophane) with water. Expose to direct sunlight for 4–8 hours. Store away from light.<br><b>Dosage:</b> 30–60 mL, 3× daily, 30 min before meals.<br><b>Colour Uses:</b><ul><li><b>Blue water:</b> Fever, inflammation, insomnia</li><li><b>Green water:</b> Hypertension, ulcers</li><li><b>Yellow water:</b> Constipation, liver disorders</li><li><b>Red water:</b> Anaemia, weakness</li></ul><b>Shelf life:</b> Use within 24 hours. Do not refrigerate."
+      "badge": "Sedating",
+      "_legacyHtml": "<b>Wavelength:</b> 380–420 nm. <b>Physiological effect:</b> Stimulates spleen, promotes WBC production, sedates motor nerves, reduces muscular activity, anti-tumour (experimental).<br><b>Indications:</b> Neurological disorders, epilepsy, insomnia, bladder problems, lymphadenopathy, scalp disorders, meningitis, concussion (subacute), skin tumours (adjunct).<br><b>Duration:</b> 10–15 min. <b>Frequency:</b> Alternate days — avoid overuse.<br><b>Method:</b> Violet filtered light; violet solarised water for bladder and lymphatic conditions.<br><b>Contraindications:</b> Depression, weakness, anaemia, low vitality states."
     },
     {
       "id": "chro_008",
-      "title": "LED Chromotherapy",
+      "title": "Solarised Water — Preparation & Use",
       "category": "chro",
-      "badge": "Modern",
-      "_legacyHtml": "<b>Devices:</b> LED panels, fibre-optic beds, colour therapy lamps, handheld LED pens.<br><b>Advantages over glass filters:</b> Precise wavelength, consistent output, no UV, no heat, safe for close proximity.<br><b>Common Protocols:</b><ul><li><b>Red LED (660 nm):</b> Wound healing, hair growth, arthritis</li><li><b>Near-infrared (850 nm):</b> Deep tissue, musculoskeletal pain</li><li><b>Blue LED (415 nm):</b> Acne, neonatal jaundice</li></ul><b>Duration:</b> 10–20 min per session. Course: 10–15 sessions."
+      "badge": "Preparation",
+      "_legacyHtml": "<b>Principle:</b> Water energised by sunlight through coloured glass acquires the properties of that colour frequency.<br><b>Preparation:</b> Fill 3/4 of a clean coloured glass bottle with water. Seal with cork/cloth. Place in direct sunlight for 4–8 hours. Store in cool dark place; use within 24 hours.<br><b>Dosage:</b> 30–60 ml, 3–4 times daily before meals. Children: 15–30 ml.<br><b>Colour selection:</b> Match to indication (e.g., yellow water for constipation, blue for fever, green for infection).<br><b>Precaution:</b> Use only borosilicate or natural glass — never plastic. Do not solarise on cloudy days."
     },
     {
       "id": "chro_009",
-      "title": "Clinical Indications — Quick Reference",
+      "title": "LED Chromotherapy — Clinical Use",
       "category": "chro",
-      "badge": "Reference",
-      "_legacyHtml": "<table><tr><th>Condition</th><th>Colour</th></tr><tr><td>Anaemia</td><td>Red</td></tr><tr><td>Hypertension</td><td>Blue/Green</td></tr><tr><td>Insomnia</td><td>Blue</td></tr><tr><td>Depression</td><td>Orange/Yellow</td></tr><tr><td>Hypothyroidism</td><td>Red/Orange</td></tr><tr><td>Hyperthyroidism</td><td>Blue</td></tr><tr><td>Liver disorders</td><td>Yellow/Green</td></tr><tr><td>Asthma</td><td>Orange/Blue</td></tr><tr><td>Constipation</td><td>Yellow/Orange</td></tr><tr><td>Skin diseases</td><td>Yellow/Violet</td></tr></table>"
+      "badge": "Modern",
+      "_legacyHtml": "<b>Technology:</b> LED panels emit specific wavelengths. More precise than filtered light.<br><b>Red LED (630–660 nm):</b> Wound healing, collagen synthesis, chronic pain, hair loss (LLLT). Evidence: Level 2B.<br><b>Blue LED (415–470 nm):</b> Acne vulgaris (P. acnes photosensitisation), neonatal jaundice. Evidence: Level 1B for acne.<br><b>Near-infrared (810–850 nm):</b> Deep tissue healing, joint pain, neurological support.<br><b>Session parameters:</b> 10–20 min, 20–50 J/cm2 (energy density). Maintain 5–15 cm distance.<br><b>Safety:</b> Use UV-filtering goggles. Avoid direct eye exposure. Contraindicated in photosensitive skin disorders, on active malignancy sites."
     },
     {
       "id": "chro_010",
-      "title": "Chromotherapy — Contraindications & Safety",
+      "title": "Chromotherapy — Clinical Indications Table",
       "category": "chro",
-      "badge": "Safety",
-      "_legacyHtml": "<b>General Contraindications:</b><ul><li>Photosensitive conditions (lupus, porphyria, XP)</li><li>Photosensitising medications (tetracyclines, NSAIDs, diuretics)</li><li>Active skin cancer at treatment site</li><li>Directly over eyes (unless eye-specific protocol with protection)</li><li>Pregnancy (avoid red/infrared over abdomen)</li></ul><b>Safety Rules:</b> Always use UV-filtered lamps. Avoid staring into light source. Skin should be clean and dry. Check for hypersensitivity first session. Document colour, distance, duration, and response."
+      "badge": "Reference",
+      "_legacyHtml": "<b>Quick Reference by Condition:</b><br><b>Hypertension:</b> Blue, Green<br><b>Anaemia:</b> Red, Orange<br><b>Asthma:</b> Orange, Blue<br><b>Constipation:</b> Yellow, Orange<br><b>Depression:</b> Orange, Yellow, Red<br><b>Insomnia:</b> Blue, Violet<br><b>Arthritis (acute):</b> Blue, Green | <b>Arthritis (chronic):</b> Red, Orange<br><b>Diabetes:</b> Yellow, Green<br><b>Thyroid (hypo):</b> Orange, Yellow | <b>Thyroid (hyper):</b> Indigo, Blue<br><b>Skin infections:</b> Green, Blue<br><b>Fever:</b> Blue<br><b>Liver disorders:</b> Yellow, Green<br><b>Migraine:</b> Blue, Green<br><b>Paralysis:</b> Red, Orange"
     }
   ]
 }
